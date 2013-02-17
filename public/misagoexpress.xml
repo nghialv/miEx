@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MisagoExpress>
+  <indexNum>52000</indexNum>
+  <meInfo>
+    <meID>1</meID>
+	  <meTitle>2013年1月号</meTitle>
+	  <meURL>http://cj51edt-asp-app000.c4sa.net/misagoexpress.xml</meURL>
+  </meInfo>
+  <meInfo>
+    <meID>2</meID>
+	  <meTitle>2013年2月号</meTitle>
+	  <meURL>http://cj51edt-asp-app000.c4sa.net/misagoexpress.xml</meURL>
+  </meInfo>
+  <meInfo>
+    <meID>3</meID>
+	  <meTitle>2013年3月号</meTitle>
+	  <meURL>http://cj51edt-asp-app000.c4sa.net/misagoexpress.xml</meURL>
+  </meInfo>
+</MisagoExpress>
